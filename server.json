@@ -1,3 +1,8 @@
 {
-    "trayEnable":"false"
+    "trayEnable":"false",
+    "web":{
+        "rewrites":{
+            "enable":"true"
+        }
+    }
 }
