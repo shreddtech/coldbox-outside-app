@@ -2,6 +2,7 @@
     "trayEnable":"false",
     "web":{
         "rewrites":{
+            "config":"urlrewrite.xml",
             "enable":"true"
         }
     }
